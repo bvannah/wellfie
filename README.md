@@ -1,5 +1,8 @@
 # wellfie
-![project icon](icon.png)
+<p align="center">
+  <img width="345" height="319" src="icon.png">
+</p>
+<br>
 A Self Financial Wellness Assessment Tool (like a financial selfie).
 
 ## 2nd place at Breaking Barriers Buildathon, by MIT FinTech and Deloitte
