@@ -8,7 +8,7 @@
 </p>
 
 
-## 2nd place at Breaking Barriers Buildathon, by MIT FinTech, FINRA, and Deloitte
+## 2nd place at Breaking Barriers Buildathon, by MIT FinTech Club, FINRA, and Deloitte
 **Project Team:**
 Nidhi Sharma, Kiran ChandreGowda, Mallika Saidi, Diego Benitez Concha, Yasmin Omrani, and Brian Vannah
 
