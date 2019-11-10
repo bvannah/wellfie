@@ -1,5 +1,5 @@
 # wellfie
-![project icon](https://raw.githubusercontent.com/bvannah/wellfie/main/icon.png)
+![project icon](icon.png)
 A Self Financial Wellness Assessment Tool (like a financial selfie).
 
 ## 2nd place at Breaking Barriers Buildathon, by MIT FinTech and Deloitte
@@ -18,7 +18,7 @@ The main processing engine analyzes the responses to the user inputs to map them
 
 Once the user is defined on these two levels, the engine then makes a prediction of the risk and investment profile and suggests possible asset allocation and investment strategies.
 
-![project diagram](https://raw.githubusercontent.com/bvannah/wellfie/main/diagram.png)
+![project diagram](diagram.png)
 
 
 
