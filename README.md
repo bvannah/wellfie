@@ -22,7 +22,9 @@ Check out the Solution Summary and Submission PDF for our design process and the
 <br>
 <br>
 ![project diagram](quads.png)
+
 ![project flowchart](diagram.png)
+
 ![personality type table](MBTIRisk.png)
 
 ## Run it Yourself
@@ -31,11 +33,13 @@ Check out the Solution Summary and Submission PDF for our design process and the
 Clone the repository, download the zip file, whatever.
 
 2. Get a Twitter API key
-The file twitterSentiment.py needs four API keys. Find the part in the file where it declares `consumer_key`, `consumer_secret`, `access_token`, and `access_token_secret`, and put your keys/tokens in there. You can apply for a Twitter development account (or ask a friend to borrow theirs but don't commit fraud).
+The file `twitter_access.py` needs four API keys. Find the part in the file where it declares `consumer_key`, `consumer_secret`, `access_token`, and `access_token_secret`, and put your keys/tokens in there. You can apply for a Twitter development account (or ask a friend to borrow theirs but don't commit fraud).
 
 3. Install the dependencies
-You need to install python 3, and a bunch of python modules. My recommendation is to just install pip, and then try to run the main file (twitterToMBTI.py) and use pip to install the modules that it asks for.
+You need Python 3, and a bunch of Python modules. My recommendation for the modules is to just install pip, and then try to run the main file (`get_risk.py`) and use pip to install the modules that it asks for.
 
 4. Run the main file
-Open up a terminal and run `python3 twitterToMBTI.py` or however you execute python scripts
+Execute `get_risk.py` however you execute python scripts, usually something like `python3 get_risk.py` in terminal, or run it using your IDE of choice (IDLE or Spyder for many people).
 
+Shoot me a text, email, etc. if you have questions.
+-Brian
