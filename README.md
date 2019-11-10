@@ -1,10 +1,10 @@
-# wellfie
+
 <p align="center">
   <img width="345" height="319" src="icon.png">
 </p>
 <br>
 <p align="center">
-  A Self Financial Wellness Assessment Tool (like a financial selfie).
+  <b><big> A Self Financial Wellness Assessment Tool (like a financial selfie) </big></b>
 </p>
 
 
