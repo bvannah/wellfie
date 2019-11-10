@@ -29,16 +29,16 @@ Check out the Solution Summary and Submission PDF for our design process and the
 
 ## Run it Yourself
 
-1. Download the code
+### 1. Download the code.
 Clone the repository, download the zip file, whatever.
 
-2. Get a Twitter API key
+### 2. Get a Twitter API key
 The file `twitter_access.py` needs four API keys. Find the part in the file where it declares `consumer_key`, `consumer_secret`, `access_token`, and `access_token_secret`, and put your keys/tokens in there. You can apply for a Twitter development account (or ask a friend to borrow theirs but don't commit fraud).
 
-3. Install the dependencies
+### 3. Install the dependencies
 You need Python 3, and a bunch of Python modules. My recommendation for the modules is to just install pip, and then try to run the main file (`get_risk.py`) and use pip to install the modules that it asks for.
 
-4. Run the main file
+### 4. Run the main file
 Execute `get_risk.py` however you execute python scripts, usually something like `python3 get_risk.py` in terminal, or run it using your IDE of choice (IDLE or Spyder for many people).
 
 Shoot me a text, email, etc. if you have questions.
