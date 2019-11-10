@@ -3,7 +3,10 @@
   <img width="345" height="319" src="icon.png">
 </p>
 <br>
-A Self Financial Wellness Assessment Tool (like a financial selfie).
+<p align="center">
+  A Self Financial Wellness Assessment Tool (like a financial selfie).
+</p>
+
 
 ## 2nd place at Breaking Barriers Buildathon, by MIT FinTech and Deloitte
 **Project Team:**
@@ -15,15 +18,16 @@ Ada ZhouYing, Peter Smiley, Syed J. Zaidi, and Stephen Cohen
 
 ## Project Information
 
-The current design of WELLFIE consists of a web-based user interface, used to collect user responses to personal financial information, social media handles and quiz answers. The social media accounts are then parsed and analyzed via an AI neural net processor, which has been trained on Kaggle data to map the user’s personality to one of the 16 MBTI traits. These traits are mapped to FTR levels based on research included in the appendix to this document. 
+Check out the Solution Summary and Submission PDF for our design process and theoretical approach. For the social media portion of our project, we predicted financial risk tolerance given text as input. After training a model using the (MBTI) Myers-Briggs Personality Type Dataset from Kaggle, we used people's public Twitter accounts (specifically, the text in their tweets) to predict their Myers-Briggs personality type. We then used a mapping we found on the internet that correlated personality types to levels of financial risk (see diagrams below).
+<br>
+![project diagram](quads.png)
+![project flowchart](diagram.png)
+![project flowchart](MBTIRisk.png)
 
-The main processing engine analyzes the responses to the user inputs to map them on 2 dimensions - FTR and Financial knowledge. The processor engine combines the social media personality trait with self-reported attitudes to life to make a single prediction of the risk level in a financial context. Performance on the quiz is taken as a proxy for financial knowledge.
-
-Once the user is defined on these two levels, the engine then makes a prediction of the risk and investment profile and suggests possible asset allocation and investment strategies.
-
-![project diagram](diagram.png)
+## Run it Yourself
 
 
 
 
 I took out the API keys but everything else is up there so you can see how it works.
+
