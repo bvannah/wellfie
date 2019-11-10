@@ -23,7 +23,7 @@ Check out the Solution Summary and Submission PDF for our design process and the
 <br>
 ![project diagram](quads.png)
 ![project flowchart](diagram.png)
-![project flowchart](MBTIRisk.png)
+![personality type table](MBTIRisk.png)
 
 ## Run it Yourself
 
