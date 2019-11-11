@@ -2,7 +2,6 @@
 <p align="center">
   <img src="icon.png">
 </p>
-<br>
 <p align="center">
   <b><big> A Self Financial Wellness Assessment Tool (like a financial selfie) </big></b>
 </p>
