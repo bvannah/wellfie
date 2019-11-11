@@ -28,6 +28,8 @@ Check out the Solution Summary and Submission PDF for our design process and the
 ![personality type table](MBTIRisk.png)
 
 ## Run it Yourself
+This repo only contains the code for about half of our project (using Python NLP to convert from Twitter to financial risk). Once you run the code, it will ask you for a Twitter handle (which must be public or followed by the Twitter API user). For example, I would type in NICKIMINAJ to get information about Nicki Minaj. About 20 seconds later (depending on your computer and internet speed), there will be a pop up box with the predicted Myers-Briggs personality type and level of risk tolerance.
+
 
 ### 1. Download the code.
 Clone the repository, download the zip file, whatever.
