@@ -21,6 +21,8 @@ Ada ZhouYing, Peter Smiley, Syed J. Zaidi, and Stephen Cohen
 Check out the Solution Summary and Submission PDF for our design process and theoretical approach. For the social media portion of our project, we predicted financial risk tolerance given text as input. After training a model using the (MBTI) Myers-Briggs Personality Type Dataset from Kaggle, we used people's public Twitter accounts (specifically, the text in their tweets) to predict their Myers-Briggs personality type. We then used a mapping we found on the internet that correlated personality types to levels of financial risk (see diagrams below).
 <br>
 <br>
+![project flowchart](diagram.png)
+
 ![project diagram](quads.png)
 
 ![personality type table](MBTIRisk.png)
