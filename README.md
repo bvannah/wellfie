@@ -23,7 +23,7 @@ Check out the Solution Summary and Submission PDF for our design process and the
 <br>
 ![project flowchart](diagram.png)
 
-![project diagram](quads.png)
+![project diagram](quad.jpg)
 
 ![personality type table](MBTIRisk.png)
 
@@ -45,5 +45,6 @@ Execute `get_risk.py` however you execute python scripts, usually something like
 
 <br>
 <br>
+
 *Shoot me a text, email, etc. if you have questions. -Brian*
   
