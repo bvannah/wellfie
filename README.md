@@ -23,8 +23,6 @@ Check out the Solution Summary and Submission PDF for our design process and the
 <br>
 ![project diagram](quads.png)
 
-![project flowchart](diagram.png)
-
 ![personality type table](MBTIRisk.png)
 
 ## Run it Yourself
@@ -43,5 +41,7 @@ You need Python 3, and a bunch of Python modules. My recommendation for the modu
 ### 4. Run the main file
 Execute `get_risk.py` however you execute python scripts, usually something like `python3 get_risk.py` in terminal, or run it using your IDE of choice (IDLE or Spyder for many people).
 
-Shoot me a text, email, etc. if you have questions.
--Brian
+<br>
+<br>
+*Shoot me a text, email, etc. if you have questions. -Brian*
+  
